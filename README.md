@@ -1,8 +1,2 @@
-# awesomedev
+# Git commands I should know by heart
 
-
-This readme includes: 
-
-* A link to absolutely [NOTHING](https://www.com),
-* A bunch of random text
-* Nothing
